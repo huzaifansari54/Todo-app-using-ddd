@@ -19,4 +19,4 @@ for state mangament i use riverpod
 for service locator i use get it and injectable
 for error handling and data class i used dartz and freezed pkg
 there might be small bug and issue beacouse of time constrants 
-which i can solve
+which i can solve if i get some more time 
