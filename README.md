@@ -1,4 +1,7 @@
 # Todo App Using flutter 
+# Crententila 
+for using app email rahul@gmail.com password 123look 
+if you cant then please create new account
 
 # Feature
 ## Auth
